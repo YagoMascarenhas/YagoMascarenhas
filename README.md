@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👋 I'm Yago
 - 🌎 I'm from Brazil and I speak Portuguese and English
-- 🌱 I’m currently learning Angular (and some Data Science in the free time)
+- 🌱 I’m currently learning Python for Web Development and Data Science (you can check my study progress [here](https://github.com/YagoMascarenhas/the_data_sandbox))
 - 😄 Pronouns: he/him
 - 📫 How to reach me: <br>
  [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" height="50">](https://github.com/YagoMascarenhas)
